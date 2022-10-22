@@ -1,7 +1,7 @@
 /**
  * @name Amoled Theme
  * @description Enable/Disable Androids Dark Dark Mode.
- * @author Barvo#4061
+ * @author Bravo#4061
  * @version 1.0.0
  */
 
